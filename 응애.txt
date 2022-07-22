@@ -1,0 +1,12 @@
+PAPER NINJA추가할 것
+1.UMG 메인메뉴
+1)해상도
+2)PLAY, OPTION, QUIT
+3)플레이시 게임시작, QUIT 게임나가기
+2.게임 내 PAUSE
+1)X키를 눌러 PAUSE(ANYOTHER KEYS 가능)
+2)퍼즈 시 RESUME OPTION EXIT 등등
+3.맵 만들기 또는 캐릭터 기능 추가 부여
+1)더블점프같은 캐릭터에 특수성을 부여
+2)STAGE 2 만들기
+3)수리검, 트랩 등 최대한 활용하기
